@@ -2,10 +2,13 @@ team: Leopards
 ​
 manager: Nora
 
-coach: MainOscar
+coach: Conlict-2Oscar
 ​
 members:
 - Linda
 - William
 - David
 - Olivia
+
+
+
