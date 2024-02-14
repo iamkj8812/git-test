@@ -6,3 +6,4 @@ members:
 - Caleb
 - Harvey
 - Myles
+- 원격저정소에서 수정
